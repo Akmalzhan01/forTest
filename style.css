@@ -1,5 +1,23 @@
-.red{
+.n{
   width: 100px;
   height: 100px;
+  border-radius: 50px;
+}
+.red{
   background-color: red;
+  margin-bottom: 10px;
+}
+.yellow{
+  background-color: yellow;
+  margin-bottom: 10px;
+}
+.green{
+  background-color: green;
+}
+.box{
+  width: 100px;
+  height: 320px;
+  background-color: black;
+  border-radius: 4px;
+  padding: 10px;
 }
